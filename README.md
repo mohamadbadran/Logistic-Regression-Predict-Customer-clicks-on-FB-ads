@@ -20,6 +20,7 @@ Outputs:
 In this code we will train a model to predict whether the customer clicked on the advertisement or no.
 
 We will walk through these steps :
+
 1 - Import the libraries
 
 2 - Import the dataset

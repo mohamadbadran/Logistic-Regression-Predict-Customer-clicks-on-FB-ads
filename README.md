@@ -1,4 +1,6 @@
 # Logistic-Regression-Predict-Customer-clicks-on-FB-ads
+You can view the notebook from here https://nbviewer.jupyter.org/github/mohamadbadran/Logistic-Regression-Predict-Customer-clicks-on-FB-ads/blob/master/Logistic-Regression-Predict%20Customer%20clicks%20on%20FB%20ads/Logistic%20Regression-Predict%20Customer%20clicks%20on%20FB%20ads%20.ipynb
+
 PROBLEM STATEMENT
 You have been hired as a consultant to a start-up that is running a targetted marketing ads on facebook. The company wants to anaylze customer behaviour by predicting which customer clicks on the advertisement. Customer data is as follows:
 Inputs:
